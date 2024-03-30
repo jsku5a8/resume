@@ -1,0 +1,13 @@
+.home-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-width: 670px;
+  min-height: 100vh;
+  width: 100%;
+
+  background-color: gainsboro;
+  background-image: url(https://media.rbcdn.ru/media/news/shutterstock1134885563.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
